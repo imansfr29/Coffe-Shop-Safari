@@ -46,7 +46,3 @@ Aplikasi Android untuk memesan kopi secara online. Pengguna dapat melihat menu, 
 2. Buka di Android Studio
 3. Jalankan di emulator atau perangkat Android
 
-## Developer
-- Nama: [Nama Kamu]
-- NIM: [Nomor Induk Mahasiswa]
-- Kelas: [Kelas kamu]
