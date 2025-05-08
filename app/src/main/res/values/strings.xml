@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">coffeeshopp25</string>
+    <string name="choiceyour_nfavorite_coffe">Choice your\nFavorite Coffe</string>
+    <string name="the_best_grain_the_finest_roast_nthe_powerfull_flavor">The best grain,the finest roast\nthe powerfull flavor</string>
+    <string name="search_anything">Search anything...</string>
+    <string name="popular_coffees">Popular coffees</string>
+    <string name="see_all">See all</string>
+    <string name="explorer">Explorer</string>
+    <string name="get_started">Get Started</string>
+</resources>

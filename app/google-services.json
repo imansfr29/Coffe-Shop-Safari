@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301225624240",
+    "project_id": "coffeeshopp25-2",
+    "storage_bucket": "coffeeshopp25-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301225624240:android:02edce24739c834e713175",
+        "android_client_info": {
+          "package_name": "com.imansafari.coffeeshopp25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUDp-w8oNhRNyvP8O8NoWDtB58E2t90E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
